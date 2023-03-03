@@ -6,10 +6,11 @@
 .head
     .head__eye.head__eye--color_green
     .head__mouth
-.body.body--skin_white
-    .body__hand
-        .body__finger.body__finger--scar
-    .body__foot.body__foot--size_big
+.body.body--tattoo
+.extremities
+    .extremities__hand
+        .extremities__finger.extremities__finger--scar
+    .extremities__foot.extremities__foot--size_big
 ```
 
 ## Задание 2

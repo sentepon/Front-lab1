@@ -29,7 +29,7 @@ header.header>img.logo+nav.nav>ul.nav__list>li.nav__item*4>a.nav__link^li.nav__i
 ![form](./img/form.png)
 
 ```
-form.form>input.form__input*5+button.form__btn
+form.form>label.form__label*5>input.form__input+button.form__btn
 ```
 
 ### cards
